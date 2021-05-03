@@ -1,6 +1,0 @@
-﻿"Comentarios del Tabulado."
-"Los resultados del Indicador Trimestral de la Actividad Económica Estatal que aquí se presentan, incorporan en el año 2020 la última información de la estadística básica disponible, tanto de las encuestas económicas como de los registros administrativos, por lo cual, se pueden observar diferencias en las magnitudes y variaciones que fueron oportunamente publicadas."
-"Leyendas."
-"R","Revisada"
-"P","Preliminar"
-"No Aplica.","NA"
